@@ -6,30 +6,19 @@
 
 <table>
   <tr>
-    <td><b>Понедельник</td>
-    <td>20:00 - <a> Гомологическая алгебра в формате лекций </a></td>
-  </tr>
-  
-  <tr>
-    <td><b>Вторник</td>
-    <td>20:00 - <a> Хартсхорн, "Алгебраическая геометрия" </a></td>
-  </tr>
-  
-  <tr>
-    <td><b>Среда</td>
-    <td>19:00 - <a href="https://github.com/nerdladybug/math_club/tree/main/nonstandard">Goldblatt, "Lectures on the Hyperreals. An Introduction to Nonstandard Analysis" </a></td>
-  </tr>
-  
-  <tr>
     <td><b>Четверг</td>
-    <td>20:00 - <a>Ван дер Варден, "Пробуждающаяся наука. Математика древнего Египта, Вавилона и Греции"</a></td>
+    <td>17:00 - <a>Gary Gensler, "Blockchain and money"</a></td>
+  </tr>
+
+  <tr>
+    <td><b>Суббота</td>
+    <td>18:00 - <a> листки НМУ, Алгебра-1, Фонарёв А. В., 2021 </a></td>
   </tr>
   
   <tr>
     <td><b>Воскресенье</td>
-    <td>20:00 - <a>Ландо, "Введение в дискретную математику" </a></td>
-</td>
-  </tr>
+    <td>20:00 - <a>Брауэр Л. Э. Я., "Недостоверность принципов логики" </a></td>
+  </td>
 </table>
 
 :books: [Здесь](https://drive.google.com/drive/folders/1PNMiyOlzuug-AFRJFxAFHlyZBTv1kurY) можно найти все наши книги.
