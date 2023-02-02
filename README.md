@@ -6,18 +6,17 @@
 
 <table>
   <tr>
-    <td><b>Четверг</td>
-    <td>17:00 - <a>Gary Gensler, "Blockchain and money"</a></td>
+    <td rowspan="2"><b>Суббота</td>
+    <td>11.02, 17:00 - <a href="https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/">Gary Gensler, "Blockchain and money"</a></td>
   </tr>
 
   <tr>
-    <td><b>Суббота</td>
-    <td>18:00 - <a> Листки НМУ, Алгебра-1, Фонарёв А. В., 2021 </a></td>
+    <td>18:00 - <a href="https://ium.mccme.ru/f21/f21-Algebra1.html"> Листки НМУ, Алгебра-1 </a></td>
   </tr>
-  
+
   <tr>
     <td><b>Воскресенье</td>
-    <td>20:00 - <a>Брауэр Л. Э. Я., "Недостоверность принципов логики" </a></td>
+    <td>20:00 - <a href="https://drive.google.com/file/d/1zCjIpfEOO84W-N-Y00E9gyVOlN0R6lpA/view">Брауэр Л. Э. Я., "Недостоверность принципов логики" </a></td>
   </td>
 </table>
 
