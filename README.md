@@ -16,7 +16,7 @@
 
   <tr>
     <td><b>Воскресенье</td>
-    <td>20:00 - <a href="https://drive.google.com/file/d/1zCjIpfEOO84W-N-Y00E9gyVOlN0R6lpA/view">Брауэр Л. Э. Я., "Недостоверность принципов логики" </a></td>
+    <td>20:00 - <a href="https://drive.google.com/file/d/15acjDvQS9j_mnlgGJK2oA1GwDKA9_viB/view?usp=share_link">Тарский, "Истина и доказательство" </a></td>
   </td>
 </table>
 
