@@ -16,7 +16,7 @@
   </tr>
 
   <tr>
-    <td>20:00 - - <a href="https://terrytao.wordpress.com/2007/05/23/soft-analysis-hard-analysis-and-the-finite-convergence-principle/">Terence Tao, "Soft analysis, hard analysis, and the finite convergence principle" </a> </td>
+    <td>20:00 - <a href="https://terrytao.wordpress.com/2007/05/23/soft-analysis-hard-analysis-and-the-finite-convergence-principle/">Terence Tao, "Soft analysis, hard analysis, and the finite convergence principle" </a> </td>
   </tr>
 </table>
 
