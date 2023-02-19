@@ -5,11 +5,7 @@
 ### Расписание
 
 <table>
-  <tr>
-    <td><b>Суббота</td>
-    <td>18:00 - <a href="https://ium.mccme.ru/f21/f21-Algebra1.html"> Листки НМУ, Алгебра-1 </a></td>
-  </tr>
-
+  
   <tr>
     <td  rowspan="2"><b>Воскресенье</td>
     <td>17:00 - <a href="https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/">Gary Gensler, "Blockchain and money"</a></td>
