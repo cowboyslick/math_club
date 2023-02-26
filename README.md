@@ -5,14 +5,14 @@
 ### Расписание
 
 <table>
-  
   <tr>
-    <td  rowspan="2"><b>Воскресенье</td>
+    <td><b>Суббота</td>
     <td>17:00 - <a href="https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/">Gary Gensler, "Blockchain and money"</a></td>
   </tr>
-
+ 
   <tr>
-    <td>20:00 - <a href="https://terrytao.wordpress.com/2007/06/25/ultrafilters-nonstandard-analysis-and-epsilon-management/">Terence Tao, "Ultrafilters, nonstandard analysis, and epsilon management" </a>  </td>
+    <td><b>Воскресенье</td>
+    <td>20:00 - Aluffi, Algebra: Chapter 0  </td>
   </tr>
 </table>
 
