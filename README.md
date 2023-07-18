@@ -4,12 +4,7 @@
 
 ### Расписание
 
-<table>
-  <tr>
-    <td><b>Суббота</td>
-    <td>17:00 - <a href="https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/">Gary Gensler, "Blockchain and money"</a></td>
-  </tr>
- 
+<table> 
   <tr>
     <td><b>Воскресенье</td>
     <td>20:00 - <a href="https://drive.google.com/file/d/1cYc7wBnf4jsM3cgGWDaGlLUA19YNKR_N/view"> Aluffi, Algebra: Chapter 0 </a> </td>
