@@ -9,6 +9,14 @@
     <td><b>Воскресенье</td>
     <td>19:00 - <a href="https://drive.google.com/file/d/1cYc7wBnf4jsM3cgGWDaGlLUA19YNKR_N/view"> Aluffi, Algebra: Chapter 0 </a> </td>
   </tr>
+  <tr>
+    <td><b>Вторник</td>
+    <td>19:00 - <a href="https://drive.google.com/file/d/1cYc7wBnf4jsM3cgGWDaGlLUA19YNKR_N/view"> Aluffi, Algebra: Chapter 0 </a> (задачи) </td>
+  </tr>
+  <tr>
+    <td><b>Четверг</td>
+    <td>19:00 - <a href="https://drive.google.com/file/d/1cYc7wBnf4jsM3cgGWDaGlLUA19YNKR_N/view"> Aluffi, Algebra: Chapter 0 </a> (вторая волна) </td>
+  </tr>
 </table>
 
 :page_facing_up: [Прочитанное](https://github.com/cowboyslick/math_club/blob/main/%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D0%B8.md) заново все вместе читать навряд ли будем, но на вопросы ответим в нашем чате.
