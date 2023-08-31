@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td><b>Четверг</td>
-    <td>19:00 - <a href="https://drive.google.com/file/d/1cYc7wBnf4jsM3cgGWDaGlLUA19YNKR_N/view"> Aluffi, Algebra: Chapter 0 </a> (вторая волна) </td>
+    <td>18:18 - <a href="https://drive.google.com/file/d/1cYc7wBnf4jsM3cgGWDaGlLUA19YNKR_N/view"> Aluffi, Algebra: Chapter 0 </a> (вторая волна) </td>
   </tr>
 </table>
 
