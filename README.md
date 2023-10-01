@@ -14,8 +14,12 @@
     <td>19:00 - <a href="https://drive.google.com/file/d/1cYc7wBnf4jsM3cgGWDaGlLUA19YNKR_N/view"> Aluffi, Algebra: Chapter 0 </a> (задачи) </td>
   </tr>
   <tr>
-    <td><b>Четверг</td>
-    <td>18:18 - <a href="https://drive.google.com/file/d/1cYc7wBnf4jsM3cgGWDaGlLUA19YNKR_N/view"> Aluffi, Algebra: Chapter 0 </a> (вторая волна) </td>
+    <td><b>Среда</td>
+    <td>17:30 - <a href="https://drive.google.com/file/d/1cYc7wBnf4jsM3cgGWDaGlLUA19YNKR_N/view"> Aluffi, Algebra: Chapter 0 </a> (вторая волна) </td>
+  </tr>
+  <tr>
+    <td><b>Пятница</td>
+    <td>19:00 - <a href="https://old.mccme.ru/ium//f23/f23-Algebra1.html"> Задачи Алгебра-1 НМУ </a></td>
   </tr>
 </table>
 
