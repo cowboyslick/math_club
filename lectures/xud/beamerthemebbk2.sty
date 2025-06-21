@@ -1,0 +1,70 @@
+%MBP 2010
+\mode<presentation>
+
+\setbeamertemplate{navigation symbols}{}
+
+%stuff to sort the colours
+\definecolor{bbkolour}{RGB}{138,0,38}
+
+\setbeamercolor{structure}{fg=bbkolour}
+\setbeamercolor{alerted text}{fg=bbkolour}
+
+
+\setbeamercolor{palette primary}{fg=white,bg=bbkolour}
+\setbeamercolor{palette secondary}{fg=white,bg=bbkolour}
+\setbeamercolor{palette tertiary}{bg=black!10!white,fg=bbkolour}
+\setbeamercolor{palette quaternary}{bg=white,fg=bbkolour}
+
+\setbeamercolor{titlelike}{parent=palette quaternary}
+\setbeamercolor{stripeys}{parent=palette primary}
+
+
+
+\setbeamercolor{block title}{fg=bbkolour, bg=black!10!white}
+\setbeamercolor{block title alerted}{use=alerted text, fg=bbkolour, bg=black!10!white}
+\setbeamercolor{block title example}{use=normal text, fg=bbkolour, bg=black!10!white}
+
+
+\setbeamercolor{block body}{parent=normal text, use=block title,
+bg=black!10!bg}
+\setbeamercolor{block body alerted}{parent=normal text,use=block title alerted,bg=block title alerted.bg!25!bg}
+\setbeamercolor{block body example}{parent=normal text,use=block title example,bg=black!10!bg}
+
+%header/footer stuff
+\setbeamercolor{section in head/foot}{parent=palette quaternary}
+\setbeamercolor{subsection in head/foot}{parent=palette primary}
+
+\setbeamertemplate{headline}
+{%
+\begin{beamercolorbox}[wd=\paperwidth]{section in head/foot}%
+\parbox[][.4cm
+][c]{\paperwidth}{\insertnavigation{\paperwidth}}%
+%\vspace{1.5mm}
+\end{beamercolorbox}%
+}
+
+\setbeamertemplate{frametitle}
+{
+\begin{beamercolorbox}[wd=\paperwidth]{titlelike}%
+\setlength{\arrayrulewidth}{.75pt} 
+\begin{tabular*}{\paperwidth}{p{.9\paperwidth}} \hline
+\raggedright \insertframetitle\tabularnewline
+\hline
+\end{tabular*}
+\end{beamercolorbox}
+}
+
+
+\setbeamertemplate{footline}
+{\begin{beamercolorbox}[wd=\paperwidth]{section in head/foot}%
+\hspace{2mm}\insertshortauthor\hfill
+\insertshorttitle
+\hspace{2em}\parbox[][.4cm][c]{1cm}{\insertframenumber/\inserttotalframenumber}
+\end{beamercolorbox}%
+}
+
+%innertheme stuff
+%\setbeamertemplate{blocks}[rounded][shadow=true]
+
+\mode
+<all>
